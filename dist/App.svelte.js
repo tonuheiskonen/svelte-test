@@ -20,7 +20,7 @@ import {
 	text,
 	transition_in,
 	transition_out
-} from "../_snowpack/pkg/svelte/internal.js";
+} from "/../_snowpack/pkg/svelte/internal.js";
 
 import router from "../_snowpack/pkg/page.js";
 import { user } from "./store.js";
